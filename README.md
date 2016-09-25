@@ -1,3 +1,7 @@
+# Overview
+
+Implementation of the [Hydra](http://www.hydra-cg.com/) Hypermedia API [Issue Tracker](http://www.markus-lanthaler.com/hydra/console/?url=http://www.markus-lanthaler.com/hydra/api-demo/) using the [Argolis .NET](https://github.com/wikibus/argolis) Hypermedia Controls.
+
 # Getting Started
 
 1. Install Microsoft Visual Studio 2015
